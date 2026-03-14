@@ -78,6 +78,12 @@ Criar interface gráfica
 
 Implementar validação de entradas do usuário
 
+## 💻 Novos 
+
+Relatório de faturamento total ao fechar o caixa
+
+Média de valor por venda
+
 ## 👨‍💻 Autor
 
 Projeto desenvolvido para prática de lógica de programação em Python.
